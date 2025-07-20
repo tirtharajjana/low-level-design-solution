@@ -31,7 +31,7 @@ public class TicTacToeGame {
             throw new IllegalStateException("Game already finished.");
         }
 
-        if(!board.isValidMode(row, col)) {
+        if(!board.isValidMove(row, col)) {
             throw new IllegalArgumentException("Invalid move.");
         }
 

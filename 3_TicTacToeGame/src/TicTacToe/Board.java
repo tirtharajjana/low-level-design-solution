@@ -6,14 +6,12 @@ import java.util.List;
 
 public class Board {
     private final Cell[][] grid;
-    private final int movesCount;
     private final int size;
     List<WinningStrategy>  winningStrategies;
 
     public Board(int size, List<WinningStrategy> winningStrategies) {
         this.grid = new Cell[size][size];
         this.size = size;
-        this.movesCount = 0;
         initializeBoard();
         this.winningStrategies = winningStrategies;
     }
@@ -26,7 +24,7 @@ public class Board {
         }
     }
 
-    public boolean isValidMode(int row, int col){
+    public boolean isValidMove(int row, int col){
         return row >= 0 && row < size && col >= 0 && col < size && grid[row][col].isEmpty();
     }
 
