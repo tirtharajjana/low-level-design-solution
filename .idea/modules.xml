@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/10_Splitwise/10_Splitwise.iml" filepath="$PROJECT_DIR$/10_Splitwise/10_Splitwise.iml" />
       <module fileurl="file://$PROJECT_DIR$/2_Parking_Lot/2_Parking_Lot.iml" filepath="$PROJECT_DIR$/2_Parking_Lot/2_Parking_Lot.iml" />
       <module fileurl="file://$PROJECT_DIR$/4_ElevatorSystem/4_ElevatorSystem.iml" filepath="$PROJECT_DIR$/4_ElevatorSystem/4_ElevatorSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/5_CarRentalSystem/5_CarRentalSystem.iml" filepath="$PROJECT_DIR$/5_CarRentalSystem/5_CarRentalSystem.iml" />
