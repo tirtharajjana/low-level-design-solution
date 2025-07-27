@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/6_LoggingFramework/6_LoggingFramework.iml" filepath="$PROJECT_DIR$/6_LoggingFramework/6_LoggingFramework.iml" />
       <module fileurl="file://$PROJECT_DIR$/7_SnakeLadder/7_SnakeLadder.iml" filepath="$PROJECT_DIR$/7_SnakeLadder/7_SnakeLadder.iml" />
       <module fileurl="file://$PROJECT_DIR$/8_MovieTicketBookingSystem/8_MovieTicketBookingSystem.iml" filepath="$PROJECT_DIR$/8_MovieTicketBookingSystem/8_MovieTicketBookingSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9_Atm/9_Atm.iml" filepath="$PROJECT_DIR$/9_Atm/9_Atm.iml" />
       <module fileurl="file://$PROJECT_DIR$/3_TicTacToeGame/TicTacToeGame.iml" filepath="$PROJECT_DIR$/3_TicTacToeGame/TicTacToeGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/lld.iml" filepath="$PROJECT_DIR$/lld.iml" />
     </modules>
